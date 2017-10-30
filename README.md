@@ -1,6 +1,6 @@
 # javascript-resource
 
-# How to Leanr Javascript
+# How to Learn Javascript
 1. https://sivers.org/learn-js
 2. https://www.codementor.io/learn-javascript-online
 3. http://javascriptissexy.com/how-to-learn-javascript-proper…/
@@ -25,6 +25,8 @@
 13. https://bento.io/topic/javascript
 14. https://arkmont.com/javascript-essentials/ ****
 15. https://sabe.io/classes/javascript****** 
+16. https://github.com/micromata/awesome-javascript-learning
+17. https://github.com/CodementorIO/JavaScript-Learning-Resources
 
 # Learn from Book
 1. javascript the definitive guide 7th edition pdf
