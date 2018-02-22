@@ -9,6 +9,9 @@
 6. https://hackr.io/tutorials/learn-javascript
 7. https://developer.mozilla.org/en-US/docs/Web/Tutorials
 
+8. https://css-tricks.com/javascript-learning-landscape-2018/
+9.https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+
 # Learn from Website
 1. https://www.codecademy.com/learn/javascript
 2. http://eloquentjavascript.net/
